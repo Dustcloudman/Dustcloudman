@@ -9,5 +9,7 @@
 - 📫 How to reach me: support@cfo.tf
 - 😄 Pronouns: It as I'm a company
 - ⚡ Fun fact: Switzerland is a cool country
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustcloudman&show_icons=true&theme=tokyonight)
 
+### My GitHub stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustcloudman&show_icons=true&theme=tokyonight)
