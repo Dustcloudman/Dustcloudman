@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Odoo ERP
-- 🌱 I’m currently learning how to make digital marketing
+- 🌱 I’m currently learning how to make big projects
 - 👯 I’m looking to collaborate on Odoo tricks and tips
 - 🤔 I’m looking for help with Odoo ERP website
 - 💬 Ask me about compnay incorporation in Switzerland
