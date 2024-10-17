@@ -6,7 +6,7 @@
 - 🤔 I’m learning how to add logged-in users-only image/streaming content with Cloudflare Images/Stream or pCloud API
 - 📫 How to reach me: dustcloudman@lkmail.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Switzerland is a cool country
+- 🦕 Fun fact: My profile picture represents my "dino level"—emerging and growing just like a dino hatching from an egg!
 
 ### My GitHub stats
 
