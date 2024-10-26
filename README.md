@@ -1,19 +1,19 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on a Docusaurus project
-- 🌱 I’m currently learning how to code and improve Docusaurus functionality
-- 👯 I’m looking to collaborate on Docusaurus best practices
-- 🤔 I’m learning how to add logged-in users-only image/streaming content with Cloudflare Images/Stream or pCloud API
-- 📫 How to reach me: dustcloudman@lkmail.me
+### Hi there! 👋 I'm Lionel, aka Dustcloudman
+
+- 🔭 Currently honing my coding skills with [Docusaurus](https://docusaurus.io/) projects
+- 🌱 Writing and sharing technical content to help others dive into Docusaurus
+- 👯 Growing my GitHub community and expanding my global audience reach
+- 🤔 Learning and experimenting with Cloudflare’s robust suite: AI, Stream, Images, Zero Trust, Workers & Pages, R2 Object Storage, and more
+- 📫 Reach me: [dustcloudman@lkmail.me](mailto:dustcloudman@lkmail.me)
 - 😄 Pronouns: He/Him
-- 🦕 Fun fact: My profile picture represents my "dino level"—emerging and growing just like a dino hatching from an egg!
+- 🦕 Fun fact: My profile pic symbolizes my "dino level"—just like a dino hatching from an egg, I'm emerging and evolving as I code!
 
-### My GitHub stats
+### My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustcloudman&show_icons=true&theme=tokyonight)
+![Lionel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dustcloudman&show_icons=true&theme=tokyonight)
 
 ---
 
-I am focusing on **Docusaurus**, learning how to improve its functionality for the community, and working on a project to add secure image/streaming content. I'm using **Cloudflare Pages** and **Cloudflare Zero Trust/Access/Applications** for app authentication.
-
-Most of my GitHub activities are related to one open-source Docusaurus project, while I use other websites for marketing purposes.
+**Minimal setup, expert knowledge**
+<br>#Cloudflare #Docusaurus #VSCode #ChatGPT #Odoo
